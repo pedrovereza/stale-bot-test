@@ -1,6 +1,6 @@
-daysUntilStale: 1
+daysUntilStale: 0
 daysUntilClose: 0
-staleLabel: wontfix
+staleLabel: test label
 markComment: >
   This issue has been automatically marked as stale because it has not had
     recent activity. It will be closed if no further activity occurs. Thank you
